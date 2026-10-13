@@ -1,2 +1,0 @@
-# kiosk-helper
-comcomcom

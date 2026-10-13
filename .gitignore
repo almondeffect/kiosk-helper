@@ -1,0 +1,15 @@
+# 비밀 정보 (절대 올리지 않기)
+.env
+
+# Python
+.venv/
+__pycache__/
+
+# Android / Gradle
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
